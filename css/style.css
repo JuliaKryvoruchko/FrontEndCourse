@@ -17,6 +17,7 @@
 /* .list li:not(.not-exmpl) a {
    color: orange; 
 } */
+
 .list{
     list-style: none;
 }
@@ -26,7 +27,7 @@
     display: inline-block;
     width: 10px;
     height: 10px;
-    background-color:black ;
+    background-color:red ;
     margin-right: 10px;
 }
 
